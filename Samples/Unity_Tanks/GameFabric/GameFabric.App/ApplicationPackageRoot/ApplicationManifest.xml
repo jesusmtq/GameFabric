@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicationTypeName="GameFabric.AppType" ApplicationTypeVersion="1.0.0" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="LoginActorService_PartitionCount" DefaultValue="3" />
+    <Parameter Name="LoginActorService_MinReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="LoginActorService_TargetReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="UserActorService_PartitionCount" DefaultValue="3" />
+    <Parameter Name="UserActorService_MinReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="UserActorService_TargetReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="SessionActorService_PartitionCount" DefaultValue="3" />
+    <Parameter Name="SessionActorService_MinReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="SessionActorService_TargetReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="TankGameSessionListActorService_PartitionCount" DefaultValue="10" />
+    <Parameter Name="TankGameSessionListActorService_MinReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="TankGameSessionListActorService_TargetReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="TankGameSessionActorService_PartitionCount" DefaultValue="10" />
+    <Parameter Name="TankGameSessionActorService_MinReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="TankGameSessionActorService_TargetReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="TankActorService_PartitionCount" DefaultValue="10" />
+    <Parameter Name="TankActorService_MinReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="TankActorService_TargetReplicaSetSize" DefaultValue="3" />
+  </Parameters>
+  <!-- Import the ServiceManifest from the ServicePackage. The ServiceManifestName and ServiceManifestVersion 
+       should match the Name and Version attributes of the ServiceManifest element defined in the 
+       ServiceManifest.xml file. -->
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="Actors.TankGameSessionListPkg" ServiceManifestVersion="1.0.0" />
+  </ServiceManifestImport>
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="Actors.TankGameSessionPkg" ServiceManifestVersion="1.0.0" />
+  </ServiceManifestImport>
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="Actors.TankPkg" ServiceManifestVersion="1.0.0" />
+  </ServiceManifestImport>
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="Actors.SessionPkg" ServiceManifestVersion="1.0.0" />
+  </ServiceManifestImport>
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="Actors.LoginPkg" ServiceManifestVersion="1.0.0" />
+  </ServiceManifestImport>
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="Actors.UserPkg" ServiceManifestVersion="1.0.0" />
+  </ServiceManifestImport>
+  <DefaultServices>
+    <Service Name="LoginActorService" GeneratedIdRef="d2cf53ec-37f3-4a8f-b537-b65cd12fee14|Persisted">
+      <StatefulService ServiceTypeName="LoginActorServiceType" TargetReplicaSetSize="[LoginActorService_TargetReplicaSetSize]" MinReplicaSetSize="[LoginActorService_MinReplicaSetSize]">
+        <UniformInt64Partition PartitionCount="[LoginActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+      </StatefulService>
+    </Service>
+    <Service Name="UserActorService" GeneratedIdRef="295896a7-0b29-425a-b1f6-2c424c251c4c|Persisted">
+      <StatefulService ServiceTypeName="UserActorServiceType" TargetReplicaSetSize="[UserActorService_TargetReplicaSetSize]" MinReplicaSetSize="[UserActorService_MinReplicaSetSize]">
+        <UniformInt64Partition PartitionCount="[UserActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+      </StatefulService>
+    </Service>
+    <Service Name="SessionActorService" GeneratedIdRef="71c498ee-9f54-4879-b303-a6a8f770f1da|Persisted">
+      <StatefulService ServiceTypeName="SessionActorServiceType" TargetReplicaSetSize="[SessionActorService_TargetReplicaSetSize]" MinReplicaSetSize="[SessionActorService_MinReplicaSetSize]">
+        <UniformInt64Partition PartitionCount="[SessionActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+      </StatefulService>
+    </Service>
+    <Service Name="TankGameSessionListActorService" GeneratedIdRef="12faded8-af18-477d-bbcd-a0ed333d4fd6|Persisted">
+      <StatefulService ServiceTypeName="TankGameSessionListActorServiceType" TargetReplicaSetSize="[TankGameSessionListActorService_TargetReplicaSetSize]" MinReplicaSetSize="[TankGameSessionListActorService_MinReplicaSetSize]">
+        <UniformInt64Partition PartitionCount="[TankGameSessionListActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+      </StatefulService>
+    </Service>
+    <Service Name="TankGameSessionActorService" GeneratedIdRef="9b56441e-d898-4fe0-9239-c97c27969feb|Persisted">
+      <StatefulService ServiceTypeName="TankGameSessionActorServiceType" TargetReplicaSetSize="[TankGameSessionActorService_TargetReplicaSetSize]" MinReplicaSetSize="[TankGameSessionActorService_MinReplicaSetSize]">
+        <UniformInt64Partition PartitionCount="[TankGameSessionActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+      </StatefulService>
+    </Service>
+    <Service Name="TankActorService" GeneratedIdRef="965413f4-4608-42e6-b655-8f9463fdc350|Persisted">
+      <StatefulService ServiceTypeName="TankActorServiceType" TargetReplicaSetSize="[TankActorService_TargetReplicaSetSize]" MinReplicaSetSize="[TankActorService_MinReplicaSetSize]">
+        <UniformInt64Partition PartitionCount="[TankActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+      </StatefulService>
+    </Service>
+    <!-- The section below creates instances of service types, when an instance of this 
+         application type is created. You can also create one or more instances of service type using the 
+         ServiceFabric PowerShell module.
+         
+         The attribute ServiceTypeName below must match the name defined in the imported ServiceManifest.xml file. -->
+  </DefaultServices>
+</ApplicationManifest>

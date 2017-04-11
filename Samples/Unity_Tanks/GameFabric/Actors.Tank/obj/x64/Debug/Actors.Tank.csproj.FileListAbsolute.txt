@@ -1,0 +1,129 @@
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Actors.Tank.exe.config
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Actors.Tank.exe
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Actors.Tank.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Common.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Models.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\System.Fabric.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Common.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Models.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\System.Fabric.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\obj\x64\Debug\Actors.Tank.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\obj\x64\Debug\Actors.Tank.exe
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze GDC2017 Demo\Actors.Tank\obj\x64\Debug\Actors.Tank.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Actors.Tank.exe.config
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Actors.Tank.exe
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Actors.Tank.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Common.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Models.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Fabric.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Validation.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Common.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Models.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Fabric.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\Validation.xml
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\obj\x64\Debug\Actors.Tank.exe
+C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\obj\x64\Debug\Actors.Tank.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Actors.Tank.exe.config
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Actors.Tank.exe
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Actors.Tank.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Common.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Logging.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Models.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Fabric.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Validation.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Processors.Interfaces.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Common.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Logging.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Models.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Fabric.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Validation.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Processors.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.exe
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.pdb

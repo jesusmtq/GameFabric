@@ -1,0 +1,3 @@
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Data\obj\x64\Debug\GameFabric.Data.sfprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\GameFabric.Data\obj\x64\Debug\GameFabric.Data.sfprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Data\obj\x64\Debug\GameFabric.Data.sfprojResolveAssemblyReference.cache

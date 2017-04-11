@@ -1,0 +1,2 @@
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.App\obj\x64\Debug\SeaBreeze.App.sfprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.App\obj\x64\Debug\SeaBreeze.App.sfprojResolveAssemblyReference.cache

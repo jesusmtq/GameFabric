@@ -1,0 +1,5 @@
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Processors.Shared\bin\Debug\SeaBreeze.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Processors.Shared\bin\Debug\SeaBreeze.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Processors.Shared\obj\Debug\SeaBreeze.Processors.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Processors.Shared\obj\Debug\SeaBreeze.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Processors.Shared\obj\Debug\SeaBreeze.Processors.Shared.pdb

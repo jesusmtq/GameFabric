@@ -1,0 +1,4 @@
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\bin\Debug\SeaBreeze.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\bin\Debug\SeaBreeze.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\obj\Debug\SeaBreeze.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\obj\Debug\SeaBreeze.Shared.pdb

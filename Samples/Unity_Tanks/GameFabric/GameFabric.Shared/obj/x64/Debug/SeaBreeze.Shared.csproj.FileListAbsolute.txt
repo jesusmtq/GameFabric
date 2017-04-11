@@ -1,0 +1,14 @@
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\obj\x64\Debug\SeaBreeze.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\obj\x64\Debug\SeaBreeze.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\SeaBreeze\SeaBreeze\SeaBreeze.Shared\obj\x64\Debug\SeaBreeze.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\bin\x64\Debug\SeaBreeze.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\obj\x64\Debug\SeaBreeze.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\obj\x64\Debug\SeaBreeze.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.Shared\obj\x64\Debug\SeaBreeze.Shared.pdb

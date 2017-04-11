@@ -1,0 +1,7 @@
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\obj\Debug\GameFabric.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\bin\Debug\GameFabric.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\bin\Debug\GameFabric.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\bin\Debug\GameFabric.Processors.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\bin\Debug\GameFabric.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\obj\Debug\GameFabric.Shared.dll
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Shared\obj\Debug\GameFabric.Shared.pdb
