@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.MiniSignalR", "UnitySupport\Unity.MiniSignalR.csproj", "{93C5A405-D302-48FB-B8F8-9DCE8E01F77A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.MiniSignalR", "Unity.MiniSignalR\Unity.MiniSignalR.csproj", "{93C5A405-D302-48FB-B8F8-9DCE8E01F77A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
