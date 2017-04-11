@@ -47,7 +47,7 @@ namespace Complete
         //Default creator
         public SignalRManager()
         {
-            ServerUrl = "localhost/signalr/";
+            ServerUrl = "gamefabric.westeurope.cloudapp.azure.com/signalr/";// "localhost/signalr/";
             SignaRHubName = "InterfaceHub";
         }
         public bool InitializeAndConnect(string UserName,string Password)
@@ -214,7 +214,7 @@ namespace Complete
                         break;
                 }
             }
-           if (response.Kind!=4) UnityEngine.Debug.Log(response.Kind.ToString()+" time:"+response.TimeTaken.ToString()+" total calls:"+_recievedResonses.ToString()+" Json:"+response.JsonPayload);
+           if (response.Kind!=(int)RequestProcessorEnum.TankPosition) UnityEngine.Debug.Log(response.Kind.ToString()+" time:"+response.TimeTaken.ToString()+" total calls:"+_recievedResonses.ToString()+" Json:"+response.JsonPayload);
             //UnityEngine.Debug.Log(response.Kind.ToString() + " time:" + response.TimeTaken.ToString() + " Json:" + response.JsonPayload);
         }
 
