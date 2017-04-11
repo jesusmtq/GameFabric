@@ -77,7 +77,6 @@ C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actor
 C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\bin\x64\Debug\SeaBreeze.Processors.Shared.pdb
 C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\obj\x64\Debug\Actors.Tank.exe
 C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.Tank\obj\x64\Debug\Actors.Tank.pdb
-C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.csprojResolveAssemblyReference.cache
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Actors.Tank.exe.config
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Actors.Tank.exe
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Actors.Tank.pdb
@@ -125,5 +124,6 @@ C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actor
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\Validation.xml
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Processors.Interfaces.pdb
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\bin\x64\Debug\GameFabric.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.csprojResolveAssemblyReference.cache
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.exe
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Tank\obj\x64\Debug\Actors.Tank.pdb

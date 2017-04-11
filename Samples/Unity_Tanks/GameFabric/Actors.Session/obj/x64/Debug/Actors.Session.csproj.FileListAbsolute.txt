@@ -111,6 +111,5 @@ C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actor
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Session\bin\x64\Debug\Newtonsoft.Json.xml
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Session\bin\x64\Debug\GameFabric.Processors.Interfaces.pdb
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Session\bin\x64\Debug\GameFabric.Processors.Shared.pdb
-C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Session\obj\x64\Debug\Actors.Session.csprojResolveAssemblyReference.cache
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Session\obj\x64\Debug\Actors.Session.exe
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.Session\obj\x64\Debug\Actors.Session.pdb

@@ -82,9 +82,6 @@ C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actor
 C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.exe
 C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.pdb
 C:\Users\Ludwig Ahrle\Desktop\SeaBreezePreviewGit\GDCExamples\SeaBreezeGDC\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.csprojResolveAssemblyReference.cache
-C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.csprojResolveAssemblyReference.cache
-C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.exe
-C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.pdb
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\bin\x64\Debug\Actors.TankGameSession.exe.config
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\bin\x64\Debug\Actors.TankGameSession.exe
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\bin\x64\Debug\Actors.TankGameSession.pdb
@@ -134,3 +131,6 @@ C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actor
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\bin\x64\Debug\Validation.xml
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\bin\x64\Debug\GameFabric.Processors.Interfaces.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.exe
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\Actors.TankGameSession\obj\x64\Debug\Actors.TankGameSession.pdb

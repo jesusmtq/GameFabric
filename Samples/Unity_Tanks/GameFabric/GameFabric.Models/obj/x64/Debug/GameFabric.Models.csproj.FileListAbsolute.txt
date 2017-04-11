@@ -67,5 +67,6 @@ C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameF
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Models\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Models\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Models\bin\x64\Debug\System.Fabric.xml
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Models\obj\x64\Debug\GameFabric.Models.csprojResolveAssemblyReference.cache
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Models\obj\x64\Debug\GameFabric.Models.dll
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Models\obj\x64\Debug\GameFabric.Models.pdb
