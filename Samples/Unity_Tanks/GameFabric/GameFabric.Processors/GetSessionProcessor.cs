@@ -27,7 +27,7 @@ namespace GameFabric.Processors
         }
         public bool Authenticated
         {
-            get { return (true); }
+            get { return (false); }
         }
         public async Task<IResponse> Process(IRequest request)
         {
