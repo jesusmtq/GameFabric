@@ -2,6 +2,6 @@
 <Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2011/01/fabric">
   <!-- Add your custom configuration sections and parameters here -->
   <Section Name="DiagnosticPipelineParameters">
-    <Parameter Name="intrumentationKey" Value="6b5402f6-3a70-4acd-8987-70d7c3e65703"/> 
+    <Parameter Name="intrumentationKey" Value="Add your key here"/> 
   </Section>
 </Settings>
