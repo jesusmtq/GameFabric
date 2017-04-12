@@ -106,7 +106,6 @@
     <Compile Include="Assets\Scripts\UI\UIDirectionControl.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\Camera\CameraControl.cs" />
-    <Compile Include="Assets\_Completed-Assets\Scripts\Shell\Managers\ExampleClient.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\Shell\Managers\GameManager.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\Shell\Managers\SignalRManager.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\Shell\Managers\TankManager.cs" />

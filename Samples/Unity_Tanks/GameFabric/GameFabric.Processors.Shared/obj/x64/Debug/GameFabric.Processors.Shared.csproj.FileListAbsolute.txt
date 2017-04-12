@@ -57,3 +57,4 @@ C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameF
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Processors.Shared\bin\x64\Debug\normnfkd.nlp
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Processors.Shared\obj\x64\Debug\GameFabric.Processors.Shared.dll
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Processors.Shared\obj\x64\Debug\GameFabric.Processors.Shared.pdb
+C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.Processors.Shared\obj\x64\Debug\GameFabric.Processors.Shared.csprojResolveAssemblyReference.cache
