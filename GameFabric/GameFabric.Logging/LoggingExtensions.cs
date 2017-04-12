@@ -15,18 +15,15 @@ namespace GameFabric.Logging
             Logger.Instance.Message(Message);
         }
 
-        public static void Log(this string Message,string data)
+        public static void Log(this string Message, string data)
         {
-            Logger.Instance.MessageData(Message,data);
+            Logger.Instance.MessageData(Message, data);
         }
 
-        public static void LogDebug(this string Message, string parameterName,string paramterData)
-        {
-            Logger.Instance.ParameterData(Message, parameterName, paramterData);
-        }
+
         public static void Log(this Exception E)
         {
-            Logger.Instance.Message(E.FormatException());
+            Logger.Instance.ExceptionMessage(E.FormatException());
         }
         public static void Log(this Actor actor, string Message)
         {
@@ -58,16 +55,22 @@ namespace GameFabric.Logging
 
         public static void LogDebug(this string Message)
         {
-        #if DEBUG
+#if DEBUG
             Logger.Instance.Message(Message);
-        #endif
+#endif
         }
 
         public static void LogDebug(this Actor actor, string Message)
         {
-        #if DEBUG
+#if DEBUG
             Logger.Instance.ActorMessage(actor, "{0}", Message);
-        #endif
+#endif
+        }
+        public static void LogDebug(this string Message, string parameterName, string paramterData)
+        {
+#if DEBUG
+            Logger.Instance.ParameterData(Message, parameterName, paramterData);
+#endif
         }
         #endregion
 

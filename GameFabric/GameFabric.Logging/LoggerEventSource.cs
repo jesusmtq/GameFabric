@@ -9,7 +9,7 @@ using Microsoft.ServiceFabric.Actors.Runtime;
 namespace GameFabric.Logging
 {
     [EventSource(Name = "GameFabric-ServiceFabric-Logger")]
-    public sealed class Logger:EventSource 
+    public sealed class Logger : EventSource
     {
         public static readonly Logger Instance = new Logger();
         static Logger()
@@ -55,7 +55,7 @@ namespace GameFabric.Logging
 
         private const int MessageDataEventId = 2;
         [Event(MessageDataEventId, Level = EventLevel.Informational, Message = "{0}")]
-        public void MessageData(string message,string data)
+        public void MessageData(string message, string data)
         {
             if (this.IsEnabled())
             {
@@ -65,7 +65,7 @@ namespace GameFabric.Logging
 
         private const int MessageParameterEventId = 3;
         [Event(MessageParameterEventId, Level = EventLevel.Informational, Message = "{0}")]
-        public void ParameterData(string Message,string parameterName,string paramterData)
+        public void ParameterData(string Message, string parameterName, string paramterData)
         {
             if (this.IsEnabled())
             {
@@ -73,7 +73,7 @@ namespace GameFabric.Logging
             }
         }
 
-        
+
 
         private const int WarningMessageEventId = 4;
         [Event(WarningMessageEventId, Level = EventLevel.Warning, Message = "{0}")]
@@ -115,7 +115,7 @@ namespace GameFabric.Logging
                 && actor.ActorService.Context.CodePackageActivationContext != null)
             {
                 string finalMessage = string.Format(message, args);
-                ActorMessage(
+                ExceptionActorMessageEvent(
                     actor.GetType().ToString(),
                     actor.Id.ToString(),
                     actor.ActorService.Context.CodePackageActivationContext.ApplicationTypeName,
